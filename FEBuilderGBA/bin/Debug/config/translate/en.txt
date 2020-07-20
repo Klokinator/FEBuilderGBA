@@ -5237,7 +5237,7 @@ Weight
 Uses
 
 :特効効果\r\n新規割当
-New\r\nEffectiveness
+New Effectiveness
 
 :特効効果\r\n格納アドレス
 Weapon Effectiveness\r\nStorage address.
