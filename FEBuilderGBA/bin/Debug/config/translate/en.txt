@@ -2852,7 +2852,7 @@ FE8SpellMagic: GaidenStyle patch is not installed.
 Beginning address of magic to get at level up.
 
 :レベル
-Level
+Weapon Level
 
 :上級職のみ
 Only Promoted.
